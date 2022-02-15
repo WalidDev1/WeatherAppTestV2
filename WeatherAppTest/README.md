@@ -1,2 +1,0 @@
-# WeatherAppTest
- technical test 
